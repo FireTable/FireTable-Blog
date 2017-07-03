@@ -1,0 +1,24 @@
+
+.normal {
+  text-align: center;
+  height: 100%;
+  background-color: #272B2C;
+  background-image: url(../../assets/img/2.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.Row{
+  height: 100%;
+}
+
+.Col_Left{
+  /*background: #b0e0e6;*/
+}
+
+.Col_Right{
+  height: 100%;
+  background: #FFB5C5;
+}
