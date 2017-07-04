@@ -2,7 +2,7 @@ import React from 'react';
 import styles from './Layout.css';
 import { Row, Col } from 'antd';
 
-let isIndex = false;
+let isIndex = true;
 
 //布局组件
 function Layout({dispatch,children}) {
